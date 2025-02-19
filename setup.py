@@ -11,6 +11,6 @@ setup(name='model_augmentation',
             "torch",
             "matplotlib",
             "tqdm",
-            "deepSI @ git+https://github.com/GerbenBeintema/deepSI@master"
+            "deepSI @ git+https://github.com/MaartenSchoukens/deepSI@legacy"
         ]
       )
